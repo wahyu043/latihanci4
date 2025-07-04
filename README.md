@@ -1,7 +1,7 @@
 # CodeIgniter 4 CRUD Siswa - CAMP404
 
 [![CodeIgniter](https://img.shields.io/badge/CodeIgniter-4-blue)]()
-[![Status](https://img.shields.io/badge/Status-Completed-brightgreen)]()
+[![Status](https://img.shields.io/badge/Status-Not_Completed-red)]()
 
 Sebuah proyek latihan CRUD (Create, Read, Update, Delete) menggunakan **CodeIgniter 4**,  
 berdasarkan tutorial dari [Camp404.com](https://camp404.com/).  
